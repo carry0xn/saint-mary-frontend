@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saint-mary-fullstack/static/css/main.4fb13b32.css",
+    "main.js": "/saint-mary-fullstack/static/js/main.c8511e3e.js",
+    "static/media/logo.jpeg": "/saint-mary-fullstack/static/media/logo.f5e0db3ced4c5c08506d.jpeg",
+    "static/media/SAINT_MARY.png": "/saint-mary-fullstack/static/media/SAINT_MARY.c4c35f2d0ba915ae6de7.png",
+    "static/media/background.png": "/saint-mary-fullstack/static/media/background.9823a0ac480b0bf97036.png",
+    "index.html": "/saint-mary-fullstack/index.html",
+    "main.4fb13b32.css.map": "/saint-mary-fullstack/static/css/main.4fb13b32.css.map",
+    "main.c8511e3e.js.map": "/saint-mary-fullstack/static/js/main.c8511e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb13b32.css",
+    "static/js/main.c8511e3e.js"
+  ]
+}
