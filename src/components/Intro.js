@@ -1,4 +1,3 @@
-import React from 'react'
 import imagen from '../img/logo.jpeg'
 import Header from './Header'
 import Footer from './Footer'
