@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/saint-mary-frontend/static/css/main.4fb13b32.css",
+    "main.css": "/saint-mary-frontend/static/css/main.731ac719.css",
     "main.js": "/saint-mary-frontend/static/js/main.4d544f30.js",
     "static/media/logo.jpeg": "/saint-mary-frontend/static/media/logo.f5e0db3ced4c5c08506d.jpeg",
     "static/media/SAINT_MARY.png": "/saint-mary-frontend/static/media/SAINT_MARY.c4c35f2d0ba915ae6de7.png",
     "static/media/background.png": "/saint-mary-frontend/static/media/background.9823a0ac480b0bf97036.png",
     "index.html": "/saint-mary-frontend/index.html",
-    "main.4fb13b32.css.map": "/saint-mary-frontend/static/css/main.4fb13b32.css.map",
+    "main.731ac719.css.map": "/saint-mary-frontend/static/css/main.731ac719.css.map",
     "main.4d544f30.js.map": "/saint-mary-frontend/static/js/main.4d544f30.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fb13b32.css",
+    "static/css/main.731ac719.css",
     "static/js/main.4d544f30.js"
   ]
 }
