@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/saint-mary-frontend">
       <Routes>
         <Route path="/" element={<Intro />} />
         <Route path="/login" element={<Login />} />
