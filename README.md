@@ -20,10 +20,12 @@ Este repositorio contiene el **frontend** del sistema de gestión de alumnos de 
    cd saint-mary-frontend
 
 - Instalá las dependencias:
-    - npm install
+    ```bash
+    npm install
 
 - Iniciá la aplicación:
-    - npm start
+    ```bash
+    npm start
 
 El repositorio del backend se encuentra en:
 
